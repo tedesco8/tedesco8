@@ -1,16 +1,13 @@
-### Hi there 👋
+### Full Stack developer
 
-<!--
-**tedesco8/tedesco8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I like to create technologies that solve real problems in society or the business world.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on Tedesco Dev Company
+- 💬 Ask me about programming topics
+- 📫 How to reach me: contacto@gmail.com
+- 😄 Pronouns: Tedesco Dev
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/tedesco8/">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=tedesco8&show_icons=true&include_all_commits=true&custom_title=GitHub+Stats&theme=vue">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tedesco8&layout=compact&theme=vue">
+</a>
