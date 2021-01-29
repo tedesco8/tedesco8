@@ -4,7 +4,7 @@ I like to create technologies that solve real problems in society or the busines
 
 - 🔭 I’m currently working on Tedesco Dev Company
 - 💬 Ask me about programming topics
-- 📫 How to reach me: contacto@gmail.com
+- 📫 How to reach me: contacto@tedesco.es
 - 😄 Pronouns: Tedesco Dev
 
 <a href="https://github.com/tedesco8/">
