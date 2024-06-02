@@ -2,7 +2,7 @@
 
 I like to create technologies that solve real problems in society or the business world.
 
-- 🔭 I’m currently working at Tedesco Dev and at VU Security
+- 🔭 I’m currently working at Tedesco Dev and at Scanntech
 - 💬 Ask me about programming topics
 - 📫 How to reach me: pablo@tedesco.es
 - 😄 Pronouns: Tedesco Dev
